@@ -1,1 +1,3 @@
-<input id="name" placeholder="fname"></input>
+
+<input id="name" placeholder="fname" value="ggg"></input>
+
